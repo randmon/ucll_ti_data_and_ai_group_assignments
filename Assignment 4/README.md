@@ -12,7 +12,7 @@ Some images will be left over because they are not in the labeled set.
 ### Easy
 
 - Labelling the images
-- Transfer learning
+- [Transfer learning](transfer_learning.ipynb)
 - [Training a regression or model from scratch](all_layers_classification_model.ipynb)
 - [Using an existing object detection model](object_detection.ipynb)
 - [Non-neural network-based classification or regression model](non_neuralnetwork_classification/non_neural_network_classification.ipynb)
@@ -24,4 +24,5 @@ Some images will be left over because they are not in the labeled set.
 
 ### Hard
 
-- Object tracking
+- [Object tracking](motion_detection.ipynb)
+- [TensorFlow lite](tensorflow_lite.ipynb)
