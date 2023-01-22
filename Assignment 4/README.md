@@ -1,8 +1,27 @@
-# Instructions to load in the data
-## Move all the images into one folder
-Name this folder data
+# Data and AI Assignment 4 - Computer Visison
 
-## Run the move_to_label script
-This script will move all the images into their respective folders
+## Instructions to load in the data
 
-Some images will be left over because they are not in the labeled set
+- Move all the images into one folder inside the `Assingment 4` folder, name this folder `data`
+- Run the `move_to_label.py` script. This script will move all the images into their respective folders (`ordered_data/0` to `ordered_data/2`)
+
+Some images will be left over because they are not in the labeled set.
+
+## Tasks Done
+
+### Easy
+
+- Labelling the images
+- Transfer learning
+- [Training a regression or model from scratch](all_layers_classification_model.ipynb)
+- [Using an existing object detection model](object_detection.ipynb)
+- [Non-neural network-based classification or regression model](non_neuralnetwork_classification/non_neural_network_classification.ipynb)
+
+### Medium
+
+- [Comparison of deep learning vs non-deep learning (speed/performance)](comparing_dl_vs_non_dl/comparing_dl_vs_non_dl.ipynb)
+- [Heuristic algorithms](heuristic.ipynb)
+
+### Hard
+
+- Object tracking
