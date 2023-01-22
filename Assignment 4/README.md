@@ -7,6 +7,8 @@
 
 Some images will be left over because they are not in the labeled set.
 
+- for the heuristic notebook, you should download the Oude Fitness folder and paste it in "heuristic/data"
+
 ## Tasks Done
 
 ### Easy
@@ -20,7 +22,7 @@ Some images will be left over because they are not in the labeled set.
 ### Medium
 
 - [Comparison of deep learning vs non-deep learning (speed/performance)](comparing_dl_vs_non_dl/comparing_dl_vs_non_dl.ipynb)
-- [Heuristic algorithms](heuristic.ipynb)
+- [Heuristic algorithms](heuristic/heuristic.ipynb)
 
 ### Hard
 
